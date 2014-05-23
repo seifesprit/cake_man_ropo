@@ -5,6 +5,7 @@ public class Cake {
 		
 		System.out.println("Ahla");
 		System.out.println("essalem");
+		System.out.println("new");
 	}
 
 }
